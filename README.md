@@ -33,6 +33,7 @@ python floor_train.py
 3. Inference
 - Coloring non-floor objects.
 - It is primitive version. So, I will add accuracy and useful function for factory working.
+- If capture human face, elder person face become young;)
 
 ```
 python cap_floor.py
