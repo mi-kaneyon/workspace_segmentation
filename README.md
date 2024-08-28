@@ -1,6 +1,9 @@
 # workspace_segmentation
 highlight working space without root(road space)
 
+> [!NOTE]
+> This repository is still under construction. you may face some insufficient function.
+> But we will update asap!
 
 # used dataset 
 **corridor floor segmentation**
